@@ -1,0 +1,4 @@
+/Face Features/backend/node_modules/
+/Face Features/frontend/front/node_modules/
+/Face Features/Python/celebrity_features_cpu.pkl
+/Face Features/Python/ImageCaptioningModel.pth
